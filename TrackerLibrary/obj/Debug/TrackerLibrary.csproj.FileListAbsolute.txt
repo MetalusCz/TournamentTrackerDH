@@ -1,0 +1,9 @@
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\NEHRABAT\Programování\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
